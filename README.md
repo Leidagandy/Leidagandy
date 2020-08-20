@@ -1,20 +1,17 @@
-## Hi there, I'm Leida 👋
+## Hi, I'm Leida 👋
 
-<img align="right" src="https://cdn.pixabay.com/photo/2018/09/24/08/31/pixel-cells-3699334_1280.png" alt="Image quoting it is not a bug, it is a feature" width=300px height=465px/>
 
-https://cdn.pixabay.com/photo/2018/09/24/08/31/pixel-cells-3699334_1280.png
-
-- 🔭 I’m currently working on ... Would You Rather Game using React and Redux
-- 🌱 I’m currently learning ... React, Redux, React Native and NodeJS
+- 🔭 I’m currently working on ... Would You Rather Game with React and Redux
+- 🌱 I’m currently learning ... React Native and NodeJS
 - 👯 I’m looking to collaborate on ... JavaScript/React projects
 - 💬 Ask me about ... JavaScript, React, Redux, React Native, NodeJs, SQL, CSS, HTML
 - 🤔 I’m looking forward to ... getting my first junior developer position
 - :house: I'm currently located in ... Manchester but I'm willing to relocate 
-- :surfer: windsurf lover :hearts:
+- :surfer: Windsurf lover :hearts:
 <br />
 
 
-### Languages and Tools:
+### Programming Skills
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
