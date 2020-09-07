@@ -2,11 +2,11 @@
 
 
 - 🔭 I’m currently working on ... Would You Rather Game with React and Redux
-- 🌱 I’m currently learning ... React Native and NodeJS
+- 🌱 I’m currently learning ... Redux and Node.js
 - 👯 I’m looking to collaborate on ... JavaScript/React projects
-- 💬 Ask me about ... JavaScript, React, Redux, React Native, NodeJs, SQL, CSS, HTML
+- 💬 Ask me about ... JavaScript, React, Redux, Node.js, SQL, CSS, HTML
 - 🤔 I’m looking forward to ... getting my first junior developer position
-- :house: I'm currently located in ... Manchester but I'm willing to relocate 
+- :house: I'm currently located in ... Manchester, but willing to relocate 
 - :surfer: Windsurf lover :hearts:
 <br />
 
