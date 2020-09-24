@@ -5,8 +5,6 @@
 - 🌱 I’m currently learning ... Redux and Node.js
 - 👯 I’m looking to collaborate on ... JavaScript/React projects
 - 💬 Ask me about ... JavaScript, React, Redux, Node.js, SQL, CSS, HTML
-- 🤔 I’m looking forward to ... getting my first junior developer role
-- :house: I'm currently located in ... Manchester, but willing to relocate 
 - :surfer: Windsurf lover :hearts:
 <br />
 
