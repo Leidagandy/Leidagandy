@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning ... Redux and Node.js
 - 👯 I’m looking to collaborate on ... JavaScript/React projects
 - 💬 Ask me about ... JavaScript, React, Redux, Node.js, SQL, CSS, HTML
-- :surfer: Windsurf lover :hearts:
+- :surfer: Windsurfing lover :hearts:
 <br />
 
 
